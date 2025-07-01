@@ -1,9 +1,7 @@
 # Portfolio Website
-
 A modern, responsive portfolio website built with Flask and Tailwind CSS. Showcase your projects, skills, and contact information in a clean and professional manner.
 
 ## Features
-
 - Responsive design that works on all devices
 - Project showcase with detailed project pages
 - Skills section with progress bars
@@ -12,7 +10,6 @@ A modern, responsive portfolio website built with Flask and Tailwind CSS. Showca
 - Easy to customize and extend
 
 ## Prerequisites
-
 - Python 3.7 or higher
 - pip (Python package manager)
 

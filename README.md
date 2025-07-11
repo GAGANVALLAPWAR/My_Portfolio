@@ -4,8 +4,8 @@ A modern, responsive portfolio website built with Flask and Tailwind CSS. Showca
 ## Features
 - Responsive design that works on all devices.
 - Project showcase with detailed project pages.
-- Skills section with progress bars
-- Contact form with email functionality
+- Skills section with progress bars.
+- Contact form with email functionality.
 - Clean and modern UI with smooth animations
 - Easy to customize and extend
 

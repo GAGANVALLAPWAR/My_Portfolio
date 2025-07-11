@@ -6,8 +6,8 @@ A modern, responsive portfolio website built with Flask and Tailwind CSS. Showca
 - Project showcase with detailed project pages.
 - Skills section with progress bars.
 - Contact form with email functionality.
-- Clean and modern UI with smooth animations
-- Easy to customize and extend
+- Clean and modern UI with smooth animations.
+- Easy to customize and extend.
 
 ## Prerequisites
 - Python 3.7 or higher

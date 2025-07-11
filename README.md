@@ -2,8 +2,8 @@
 A modern, responsive portfolio website built with Flask and Tailwind CSS. Showcase your projects, skills, and contact information in a clean and professional manner.
 
 ## Features
-- Responsive design that works on all devices
-- Project showcase with detailed project pages
+- Responsive design that works on all devices.
+- Project showcase with detailed project pages.
 - Skills section with progress bars
 - Contact form with email functionality
 - Clean and modern UI with smooth animations

@@ -3,6 +3,8 @@
 /* Smooth scrolling */
 html {
     scroll-behavior: smooth;
+    background: linear-gradient(120deg, #1a1a1a, #2c2c2c); /* new background */
+    color: #f5f5f5;
 }
 
 /* Navigation */
@@ -18,7 +20,7 @@ html {
     height: 2px;
     bottom: 0;
     left: 0;
-    background-color: #e8b268; /* blue-500 */
+    background-color: #e8b268;
     transition: width 0.3s ease;
 }
 
@@ -28,24 +30,27 @@ html {
 
 /* Hero section */
 .hero {
-    background: linear-gradient(135deg, #e8b268 0%, #1db9d8 100%);
+    background: linear-gradient(135deg, #2e2e2e 0%, #1f1f1f 100%); /* updated */
 }
 
 /* Project cards */
 .project-card {
+    background: rgba(255, 255, 255, 0.03); /* subtle glass effect */
     transition: transform 0.3s ease, box-shadow 0.3s ease;
+    border-radius: 12px;
+    backdrop-filter: blur(6px);
 }
 
 .project-card:hover {
     transform: translateY(-5px);
-    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 10px 25px rgba(0, 0, 0, 0.2);
 }
 
 /* Skills progress bars */
 .skill-progress {
     height: 8px;
     border-radius: 4px;
-    background-color: #E5E7EB; /* gray-200 */
+    background-color: #3a3a3a; /* darkened for better contrast */
     overflow: hidden;
 }
 
@@ -59,6 +64,9 @@ html {
 /* Contact form */
 .contact-form input,
 .contact-form textarea {
+    background-color: #2e2e2e; /* updated */
+    border: 1px solid #444;
+    color: #f5f5f5;
     transition: all 0.3s ease;
 }
 
@@ -89,7 +97,7 @@ html {
     .hero-content {
         text-align: center;
     }
-    
+
     .hero-image {
         margin-top: 2rem;
     }
@@ -101,7 +109,7 @@ html {
 }
 
 ::-webkit-scrollbar-track {
-    background: #f1f1f1;
+    background: #1f1f1f;
 }
 
 ::-webkit-scrollbar-thumb {
@@ -110,7 +118,7 @@ html {
 }
 
 ::-webkit-scrollbar-thumb:hover {
-    background: #b025eb;
+    background: #af60fa;
 }
 
 /* Button hover effects */
@@ -118,6 +126,7 @@ html {
     position: relative;
     overflow: hidden;
     z-index: 1;
+    color: #fff;
 }
 
 .btn-hover::after {
@@ -150,6 +159,7 @@ html {
 /* Section spacing */
 section {
     padding: 5rem 0;
+    background-color: transparent; /* sections blend with overall bg */
 }
 
 /* Responsive typography */

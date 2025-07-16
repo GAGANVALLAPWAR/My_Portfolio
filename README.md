@@ -89,7 +89,7 @@ You can add projects in two ways:
 - **Styling**: Customize colors and styles in `static/css/style.css`
 - **Projects**: Add or modify projects as described above
 
-## Deployment
+## Deployment-
 
 ### Deploying to Heroku
 

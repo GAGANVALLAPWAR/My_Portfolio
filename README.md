@@ -16,7 +16,7 @@ A modern, responsive portfolio website built with Flask and Tailwind CSS. Showca
 - Python 3.7 or higher
 - pip (Python package manager)
 
-## Installation
+## Installation:
 
 1. Clone the repository:
    ```bash

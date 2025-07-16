@@ -128,6 +128,6 @@ This project is open source and available under the [MIT License](LICENSE).
 - [Tailwind CSS](https://tailwindcss.com/)
 - [Font Awesome](https://fontawesome.com/)
 
-## Support
+## Support:
 
 For support, please open an issue on the GitHub repository or contact me directly.

@@ -43,7 +43,7 @@ A modern, responsive portfolio website built with Flask and Tailwind CSS. Showca
    SECRET_KEY=your-secret-key-here
    ```
 
-## Running the Application-
+## Running the Application:
 
 1. Initialize the database:
    ```bash

@@ -82,7 +82,7 @@ You can add projects in two ways:
 2. **Using the admin interface (to be implemented)**:
    Coming soon!
 
-## Customization
+## Customization-
 
 - **Profile Information**: Update the hero section in `templates/index.html`
 - **Skills**: Modify the skills section in `templates/index.html`

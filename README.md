@@ -59,7 +59,7 @@ A modern, responsive portfolio website built with Flask and Tailwind CSS. Showca
 
 3. Open your browser and navigate to `http://127.0.0.1:5000/`
 
-## Adding Projects
+## Adding Projects:
 
 You can add projects in two ways:
 
